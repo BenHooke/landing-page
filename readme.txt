@@ -1,0 +1,1 @@
+Images used for this website were found from The Odin Project project CSS Exercises and www.Pexels.com.
